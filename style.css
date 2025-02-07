@@ -383,6 +383,10 @@ header {
     text-align: left;
 }
 
+.listy {
+    text-align: left;
+}
+
 .gallery-item h1 {
     text-align: center;
     justify-content: center;
